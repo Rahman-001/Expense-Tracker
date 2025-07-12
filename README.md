@@ -4,9 +4,13 @@
   
 ## Features
 --Add Expenses
+
 --Check the Spendings
+
 --Reports and Analytics
+
 --Income Tracking
+
 ## Usage
 ```bash
 Expense Tracker.py
